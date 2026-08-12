@@ -182,5 +182,4 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer Shopping Behavior Analysis.pdf
 ├── Customer-Shopping-Behavior-Analysis.pptx
 ├── Business Problem Document.pdf
-├── LICENSE
 └── README.md
